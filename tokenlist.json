@@ -9,6 +9,14 @@
     "tokens": [
         {
             "chainId": 8888,
+            "address": "0x53f66D92eb88B9c867e1BFf526A283887A5206aa",
+            "name": "Wrapped UTON",
+            "symbol": "WUTN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+        },
+        {
+            "chainId": 8888,
             "address": "0xc903f5b97ecc76B2F4b09f791fcea33a3cEff712",
             "name": "Tether USD",
             "symbol": "USDT",
