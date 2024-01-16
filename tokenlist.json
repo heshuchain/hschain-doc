@@ -17,6 +17,14 @@
         },
         {
             "chainId": 8888,
+            "address": "0x3B36cC516D819575aa2269e4dF2BD4669a0E68Dc",
+            "name": "dronZSTest",
+            "symbol": "drzs",
+            "decimals": 6,
+            "logoURI": "https://shennianwujie.utonmos.com/nft/20277008.gif"
+        },
+        {
+            "chainId": 8888,
             "address": "0xc903f5b97ecc76B2F4b09f791fcea33a3cEff712",
             "name": "Tether USD",
             "symbol": "USDT",
